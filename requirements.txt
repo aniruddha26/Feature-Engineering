@@ -1,2 +1,5 @@
 ipykernel
 seaborn
+numpy
+pandas
+scikit-learn
