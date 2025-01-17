@@ -40,10 +40,6 @@ Notebook: [Data Encoding](/Data_Encoding.ipynb)
    ```bash
    pip install -r requirements.txt
    ```
-3. Navigate to the desired topic directory and open the Jupyter Notebook:
-   ```bash
-   jupyter notebook
-   ```
 
 ## Prerequisites
 Ensure you have the following installed:
